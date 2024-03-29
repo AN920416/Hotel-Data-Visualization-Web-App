@@ -16,8 +16,13 @@ You can use one of the following methods:
    
 2. Run `web_crawler.ipynb`: Adjust the city and check-in date in the code. This notebook will generate a processed CSV file and an interactive chart.
 
+## Demo video
+https://youtu.be/X2UYLxndxsU
+
 ## Requirement
 
 - Python
 - Jupyter Notebook
 - Necessary Python packages
+
+
